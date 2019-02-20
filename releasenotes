@@ -1,0 +1,18 @@
+0.1
+-Ana fonksiyonun JS kodu
+
+0.2
+-Firefox add-on olarak yazılacak.
+-Extension düğmesine tıklandığında ilk 10 kişiyi deneyecek
+ Opsiyonel eklencek:
+*Background script olarak çalışacak
+
+0.3
+-Extension'ın düğmesine tıklandığında pop-up pencere çıkacak
+-Popup penceredeki buton ile tarama denemesi yapılacak
+
+0.4
+-Popup pencerede ilerleme durumu belirtilecek
+
+0.5
+-
